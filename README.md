@@ -15,3 +15,5 @@ git branch
 
 2. Creating new branch:
 git checkout -b name_of_branch
+
+
